@@ -3,8 +3,7 @@ public class App {
 
 	public static void main(String[] args) {
 		
-		Stocker stocker = new Stocker(1); 
-		
+
 
 	
 				
