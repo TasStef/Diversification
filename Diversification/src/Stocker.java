@@ -61,10 +61,8 @@ public class Stocker {
 				else {
 					this.wallet = this.wallet + 1000*0.2;
 				}
-			}
-			
-		}
-				
+			}	
+		}	
 	}
 
 
